@@ -1,0 +1,2 @@
+# MCSpecs
+Spec仓库
